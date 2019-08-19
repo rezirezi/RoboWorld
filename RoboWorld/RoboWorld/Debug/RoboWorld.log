@@ -1,0 +1,3 @@
+﻿  RoboWorld.cpp
+c:\users\rezi\source\repos\roboworld\roboworld\roboworld.cpp(238): warning C4715: 'Robot::Move': not all control paths return a value
+  RoboWorld.vcxproj -> C:\Users\rezi\source\repos\RoboWorld\Debug\RoboWorld.exe
